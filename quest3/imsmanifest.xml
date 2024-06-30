@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<manifest identifier="com.scorm.manifesttemplates.scorm12" version="1"
+          xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+          xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                           http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                           http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+    <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+    </metadata>
+    <organizations default="tdv">
+        <organization identifier="tdv">
+            <title>Untitled 4</title>
+            <item identifier="i1" identifierref="r1" isvisible="true">
+                <title>Untitled 4</title>
+            </item>
+        </organization>
+    </organizations>
+    <resources>
+        <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="index.html">
+<file href="misc/icon512.png"/>
+<file href="media/model_6A3CEBC7_6681_6BCD_41D9_6D464519734A_t.jpg"/>
+<file href="loading/HTMLImage_4614549B_6781_FC46_41C0_EBF26666EEA2.jpg"/>
+<file href="script_general.js"/>
+<file href="media/model_6A3CEBC7_6681_6BCD_41D9_6D464519734A/scene_mobile.glb"/>
+<file href="media/album_79E983C1_6682_BBC2_41C8_2CE66DE0004C_0.jpg"/>
+<file href="misc/icon16.png"/>
+<file href="tdvquiz.js"/>
+<file href="media/res_7E85ED01_6687_EC42_419D_679A886C8101_0.png"/>
+<file href="browserconfig.xml"/>
+<file href="thumbnail.png"/>
+<file href="fonts.css"/>
+<file href="misc/icon192.png"/>
+<file href="media/album_7831CD6C_6683_6CC2_41D3_1D8D803A3ADB_0.gif"/>
+<file href="media/res_49065F4D_6681_6CC2_41BE_4B1E77BDD125_0.png"/>
+<file href="media/album_7B04FDF8_6683_EFC3_41CD_7260A3E65BF1_t.png"/>
+<file href="media/album_7831CD6C_6683_6CC2_41D3_1D8D803A3ADB_t.png"/>
+<file href="media/album_7B737C84_6687_6C42_41D4_5BA2DA6F17C6_0.jpg"/>
+<file href="media/album_79E983C1_6682_BBC2_41C8_2CE66DE0004C_0_t.jpg"/>
+<file href="media/album_7B04FDF8_6683_EFC3_41CD_7260A3E65BF1_0.jpg"/>
+<file href="media/album_79E983C1_6682_BBC2_41C8_2CE66DE0004C_t.png"/>
+<file href="skin/Image_4FCD59A4_6683_9442_41CA_096ACA196A98_en.png"/>
+<file href="skin/IconButton_4029A026_6781_B44F_41D0_096F6E04ED47.png"/>
+<file href="skin/Image_414F4C1B_6682_AC46_41B6_EA7D9D084308_en.png"/>
+<file href="media/album_7B51CEEA_6681_EDC6_41B9_0F2AC40CDB23_0.jpg"/>
+<file href="media/album_7B51CEEA_6681_EDC6_41B9_0F2AC40CDB23_0_t.jpg"/>
+<file href="media/album_7B51CEEA_6681_EDC6_41B9_0F2AC40CDB23_t.png"/>
+<file href="media/model_6A3CEBC7_6681_6BCD_41D9_6D464519734A_hd_t.jpg"/>
+<file href="misc/icon64.png"/>
+<file href="media/model_6A3CEBC7_6681_6BCD_41D9_6D464519734A/scene.glb"/>
+<file href="media/album_7B04FDF8_6683_EFC3_41CD_7260A3E65BF1_0_t.jpg"/>
+<file href="media/album_7B737C84_6687_6C42_41D4_5BA2DA6F17C6_0_t.jpg"/>
+<file href="misc/icon150.png"/>
+<file href="misc/icon32.png"/>
+<file href="favicon.ico"/>
+<file href="media/model_6A3CEBC7_6681_6BCD_41D9_6D464519734A/bg_6B9D4CDE_6681_6DFE_41D5_4C514D60CFC2.jpg"/>
+<file href="index.html"/>
+<file href="script.js"/>
+<file href="skin/IconButton_4288BF94_6781_AC42_41D2_B6AAFEB72162.png"/>
+<file href="media/album_7B737C84_6687_6C42_41D4_5BA2DA6F17C6_t.png"/>
+<file href="manifest.json"/>
+<file href="locale/en.txt"/>
+<file href="media/audio_5AAEF6F8_6A86_FDC2_41CD_46C22D286A1D_en.mp3"/>
+<file href="media/album_7831CD6C_6683_6CC2_41D3_1D8D803A3ADB_0_t.png"/>
+<file href="misc/icon180.png"/>
+<file href="lib/cursors/SE.cur"/>
+<file href="fonts/Montserrat Bold Italic.eot"/>
+<file href="fonts/Montserrat Italic.eot"/>
+<file href="lib/cursors/FE.cur"/>
+<file href="fonts/Montserrat Italic.ttf"/>
+<file href="fonts/Montserrat Bold.woff"/>
+<file href="lib/cursors/FNW.cur"/>
+<file href="lib/cursors/E.cur"/>
+<file href="lib/webxr-input-profiles/generic-hand/right.glb"/>
+<file href="fonts/ISOCPEUR Italic.ttf"/>
+<file href="lib/cursors/NW.cur"/>
+<file href="lib/Hls.js"/>
+<file href="lib/webxr-input-profiles/generic-trigger/profile.json"/>
+<file href="lib/cursors/FN.cur"/>
+<file href="lib/webxr-input-profiles/generic-trigger/right.glb"/>
+<file href="fonts/Montserrat Regular.svg"/>
+<file href="fonts/ISOCPEUR.ttf"/>
+<file href="lib/WebVRPolyfill.js"/>
+<file href="lib/cursors/SW.cur"/>
+<file href="lib/cursors/FSE.cur"/>
+<file href="lib/cursors/grabbing.cur"/>
+<file href="lib/cursors/N.cur"/>
+<file href="fonts/Montserrat Bold.eot"/>
+<file href="fonts/Montserrat Bold Italic.ttf"/>
+<file href="lib/webxr-input-profiles/generic-button/right.glb"/>
+<file href="lib/webxr-input-profiles/generic-trigger/none.glb"/>
+<file href="lib/webxr-input-profiles/generic-button/none.glb"/>
+<file href="lib/draco/draco_wasm_wrapper.js"/>
+<file href="fonts/Montserrat Italic.woff"/>
+<file href="fonts/Montserrat Bold.ttf"/>
+<file href="lib/cursors/FNE.cur"/>
+<file href="lib/cursors/FSW.cur"/>
+<file href="lib/draco/draco_decoder.wasm"/>
+<file href="lib/webxr-input-profiles/meta-quest-touch-plus/left.glb"/>
+<file href="lib/webxr-input-profiles/oculus-touch-v3/left.glb"/>
+<file href="lib/cursors/W.cur"/>
+<file href="lib/cursors/FW.cur"/>
+<file href="lib/cursors/S.cur"/>
+<file href="lib/webxr-polyfill.js"/>
+<file href="lib/webxr-input-profiles/htc-vive-focus-3/left.glb"/>
+<file href="lib/webxr-input-profiles/generic-button/profile.json"/>
+<file href="fonts/Montserrat Regular.woff"/>
+<file href="lib/webxr-input-profiles/generic-button/left.glb"/>
+<file href="lib/cursors/grab.cur"/>
+<file href="lib/webxr-input-profiles/generic-trigger/left.glb"/>
+<file href="fonts/ISOCPEUR Italic.woff"/>
+<file href="lib/cursors/FS.cur"/>
+<file href="lib/cursors/NE.cur"/>
+<file href="fonts/Montserrat Regular.eot"/>
+<file href="fonts/Montserrat Bold Italic.svg"/>
+<file href="fonts/ISOCPEUR Italic.svg"/>
+<file href="fonts/Montserrat Bold Italic.woff"/>
+<file href="lib/webxr-input-profiles/pico-4/left.glb"/>
+<file href="fonts/ISOCPEUR Italic.eot"/>
+<file href="fonts/A0 Tesfa Unicode.svg"/>
+<file href="lib/draco/draco_decoder.js"/>
+<file href="lib/webxr-input-profiles/meta-quest-touch-plus/right.glb"/>
+<file href="lib/tdvplayer.js"/>
+<file href="lib/basis/basis_transcoder.wasm"/>
+<file href="lib/basis/basis_transcoder.js"/>
+<file href="fonts/ISOCPEUR.svg"/>
+<file href="fonts/Montserrat Regular.ttf"/>
+<file href="lib/webxr-input-profiles/generic-hand/left.glb"/>
+<file href="lib/webxr-input-profiles/pico-4/profile.json"/>
+<file href="fonts/A0 Tesfa Unicode.eot"/>
+<file href="lib/webxr-input-profiles/htc-vive-focus-3/profile.json"/>
+<file href="lib/webxr-input-profiles/pico-4/right.glb"/>
+<file href="lib/tdvplayer.json"/>
+<file href="lib/webxr-input-profiles/profilesList.json"/>
+<file href="fonts/A0 Tesfa Unicode.woff"/>
+<file href="lib/webxr-input-profiles/htc-vive-focus-3/right.glb"/>
+<file href="lib/webxr-input-profiles/generic-hand/profile.json"/>
+<file href="fonts/A0 Tesfa Unicode.TTF"/>
+<file href="lib/webxr-input-profiles/oculus-touch-v3/right.glb"/>
+<file href="lib/webxr-input-profiles/oculus-touch-v3/profile.json"/>
+<file href="fonts/ISOCPEUR.woff"/>
+<file href="fonts/Montserrat Bold.svg"/>
+<file href="fonts/ISOCPEUR.eot"/>
+<file href="fonts/Montserrat Italic.svg"/>
+<file href="lib/webxr-input-profiles/meta-quest-touch-plus/profile.json"/>
+        </resource>
+    </resources>
+</manifest>

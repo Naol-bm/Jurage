@@ -1,0 +1,156 @@
+#: locale=en
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_479A560A_678E_9C47_41B3_2745D0837236.url = https://www.linkedin.com/pulse/meskel-among-guraghe-people-abdurezak-mohammed/
+
+## E-Learning
+
+### Answer
+questionOption_45672CC9_6783_EDC2_41D0_DEE75ACC703C.text = 1 month
+questionOption_45672CC9_6783_EDC2_41D0_DEE75ACC703C.text = 1 month
+questionOption_468C8731_6783_7C45_41A8_6A268B8914D6.text = 10 days
+questionOption_468C8731_6783_7C45_41A8_6A268B8914D6.text = 10 days
+questionOption_47C5456C_6782_9CC2_41B9_250D7376087D.text = 7 days
+questionOption_47C5456C_6782_9CC2_41B9_250D7376087D.text = 7 days
+questionOption_4525D349_6787_94C5_41D7_061D864591B7.text = A ceremonial procession in Ethiopian Orthodox churches
+questionOption_4525D349_6787_94C5_41D7_061D864591B7.text = A ceremonial procession in Ethiopian Orthodox churches
+questionOption_46E480D1_6786_F5C5_41CB_9E96058BF54A.text = A ritual dance performed by Ethiopian tribes
+questionOption_46E480D1_6786_F5C5_41CB_9E96058BF54A.text = A ritual dance performed by Ethiopian tribes
+questionOption_462A0B33_6787_B446_41CF_B3ED0E0F46D9.text = A traditional feast held in rural villages
+questionOption_462A0B33_6787_B446_41CF_B3ED0E0F46D9.text = A traditional feast held in rural villages
+questionOption_783A84D0_6683_9DC2_41D3_B03627B86CEC.text = B and C
+questionOption_46D8D6EC_6782_BDC2_41CD_E3C4835D5735.text = Birth of Jesus Christ
+questionOption_46D8D6EC_6782_BDC2_41CD_E3C4835D5735.text = Birth of Jesus Christ
+questionOption_47240769_6783_9CC2_41C3_79BAF8DBDA14.text = Coronation of Emperor Haile Selassie
+questionOption_47240769_6783_9CC2_41C3_79BAF8DBDA14.text = Coronation of Emperor Haile Selassie
+questionOption_7865507D_6681_94C2_41B5_D30EFA05EEFE.text = Cushitic
+questionOption_450AEF41_6782_ACC2_41D3_3D5384F618C2.text = Discovery of the True Cross
+questionOption_450AEF41_6782_ACC2_41D3_3D5384F618C2.text = Discovery of the True Cross
+questionOption_78A10F2E_6683_EC5E_4182_898963406FD9.text = Enset
+questionOption_78BCCA10_6781_7442_41D0_5471852B43D4.text = Jugol 
+questionOption_7B1186CE_6682_9DDF_41B2_935922854C08.text = Kitfo
+questionOption_788E0277_6682_94CE_41CD_07674E529039.text = Kocho
+questionOption_79ABC9B6_6681_744F_41B6_693B161407B2.text = Mareqo
+questionOption_7873DD6F_677F_6CDD_41C4_550D5EFDC7E3.text = Meskel Demera
+questionOption_7815832C_6681_9443_41D7_DED512A6E192.text = Nilotic
+questionOption_78A15A3D_6681_F4BD_41B0_2711FD8924C0.text = Omotic
+questionOption_46E0B8F9_6783_B5C5_41D4_C47DAEFE15F6.text = Over 15 days
+questionOption_46E0B8F9_6783_B5C5_41D4_C47DAEFE15F6.text = Over 15 days
+questionOption_79B448C7_6682_B5CE_41D6_05AA333B939E.text = Sebat bet Gurage
+questionOption_78700D75_6681_ECC2_41D7_1338994CD9D5.text = Semitic
+questionOption_478E6E79_6786_ACC2_41D3_35343675106C.text = Setting bonfires across Ethiopia
+questionOption_478E6E79_6786_ACC2_41D3_35343675106C.text = Setting bonfires across Ethiopia
+questionOption_78F516F7_6681_9DCE_41D5_D67DC96F2E75.text = Silt'e
+questionOption_78A36916_6681_944E_419A_F952C4C56673.text = Soddo Gurage
+questionOption_79EBEB30_677F_9443_41D0_5C6CD67EB034.text = Sofumer Cave
+questionOption_78639680_6781_9C42_41B5_A63E03BAA8A8.text = Tiya
+questionOption_78C84119_6782_9445_41D6_763437AA964E.text = Victory of Adwa
+questionOption_78C84119_6782_9445_41D6_763437AA964E.text = Victory of Adwa
+
+### Question
+question_4615A6E2_678E_9DC7_41CB_128B664BB066.title = Question 1: \
+ \
+What does the Meskel festival in Ethiopia commemorate?
+question_4615A6E2_678E_9DC7_41CB_128B664BB066.title = Question 1: \
+ \
+What does the Meskel festival in Ethiopia commemorate?
+question_47E381B9_6781_9445_41D7_CAB94A9296B5.title = Question 2: \
+ \
+What is Demera, an event associated with the Meskel festival?
+question_47E381B9_6781_9445_41D7_CAB94A9296B5.title = Question 2: \
+ \
+What is Demera, an event associated with the Meskel festival?
+question_46BDEFB8_6781_AC43_41C0_7511EA7BC80B.title = Question 3: \
+ \
+How long does the Meskel festival typically last in the Guraghe region of Ethiopia?
+question_46BDEFB8_6781_AC43_41C0_7511EA7BC80B.title = Question 3: \
+ \
+How long does the Meskel festival typically last in the Guraghe region of Ethiopia?
+question_785A3FB5_6687_6C4D_41B6_43DCC02E70AE.title = The most famous archiological site found in Gurage zone which is a UNESCO world heritage site
+question_7B250EAC_6682_EC42_41AD_68377E817A7E.title = Which ethnic group constitutes the largest percentage of the Gurage Zone?
+question_7B084D06_6681_AC4E_41D2_C09601F34324.title = what is the main food among the Gurage people
+question_7BE4C2A8_6683_9443_41D8_ABDB3AADFE1E.title = what language family do the Gurage people speak
+
+### Question Screen
+quizQuestion_7D55028F_668E_B45E_41D7_8B7933BEC793.ok = OK
+
+### Report Screen
+quizScore_7D57228F_668E_B45E_41D9_072805F8201C.title = - SCORE -
+quizScore_7D57228F_668E_B45E_41D9_072805F8201C.completion = Completed
+quizScore_7D57228F_668E_B45E_41D9_072805F8201C.questionsCorrect = Correct
+quizScore_7D57228F_668E_B45E_41D9_072805F8201C.downloadCSV = Download .csv
+quizScore_7D57228F_668E_B45E_41D9_072805F8201C.questionsIncorrect = Incorrect
+quizScore_7D57228F_668E_B45E_41D9_072805F8201C.items = Items Found
+quizScore_7D57228F_668E_B45E_41D9_072805F8201C.questions = Questions
+quizScore_7D57228F_668E_B45E_41D9_072805F8201C.repeat = Repeat
+quizScore_7D57228F_668E_B45E_41D9_072805F8201C.submitToLMS = Submit
+quizScore_7D57228F_668E_B45E_41D9_072805F8201C.elapsedTime = Time
+
+### Score Name
+score1.label = Score
+
+### Timeout Screen
+quizTimeout_7D55028F_668E_B45E_41C4_E7E131964E52.title = - TIMEOUT -
+quizTimeout_7D55028F_668E_B45E_41C4_E7E131964E52.repeat = Repeat
+quizTimeout_7D55028F_668E_B45E_41C4_E7E131964E52.score = View Score
+
+## Hotspot
+
+### Tooltip
+sprite_69A240DA_6681_95C7_41D1_04970BD58349.toolTip = 1st qst
+sprite_76D0E229_6681_9445_41D6_8DEE8559C73E.toolTip = 2nd qst
+sprite_70105B2B_669E_9446_41D6_5E5BB49161AB.toolTip = 3rd qst
+sprite_75921D7A_6686_ACC6_41C2_3C98668303CE.toolTip = 4th qst
+
+## Media
+
+### Audio
+audiores_580189D5_6A87_97CD_41BF_72E9BAB743FA.mp3Url = media/audio_5AAEF6F8_6A86_FDC2_41CD_46C22D286A1D_en.mp3
+
+### Audio Subtitles
+
+### Title
+album_79E983C1_6682_BBC2_41C8_2CE66DE0004C_0.label = Gurage
+album_79E983C1_6682_BBC2_41C8_2CE66DE0004C.label = Photo Album Gurage
+album_7B737C84_6687_6C42_41D4_5BA2DA6F17C6.label = Photo Album dance
+album_7831CD6C_6683_6CC2_41D3_1D8D803A3ADB.label = Photo Album guraghe_apertura1
+album_7B51CEEA_6681_EDC6_41B9_0F2AC40CDB23.label = Photo Album photo_2022-09-19_19-55-04-1
+album_7B04FDF8_6683_EFC3_41CD_7260A3E65BF1.label = Photo Album women-feature1
+model_6A3CEBC7_6681_6BCD_41D9_6D464519734A.label = Refined Guragee
+album_7B737C84_6687_6C42_41D4_5BA2DA6F17C6_0.label = dance
+album_7831CD6C_6683_6CC2_41D3_1D8D803A3ADB_0.label = guraghe_apertura1
+album_7B51CEEA_6681_EDC6_41B9_0F2AC40CDB23_0.label = photo_2022-09-19_19-55-04-1
+album_7B04FDF8_6683_EFC3_41CD_7260A3E65BF1_0.label = women-feature1
+
+## Popup
+
+### Body
+htmlText_79A8C7B1_668E_9C42_41D2_E3E802059D91.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Enset also called Kocho, is the main food among the Gurage people</SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_47983609_678E_9C45_41D5_1BAB7A6771D7.title = Read carefuly the Artice and answer the the upcoming questions
+
+## Skin
+
+### Button
+Button_7F7BDD08_6687_AC42_4183_95B74D0825A8.label = Get Started
+
+### Image
+Image_414F4C1B_6682_AC46_41B6_EA7D9D084308.url = skin/Image_414F4C1B_6682_AC46_41B6_EA7D9D084308_en.png
+Image_4FCD59A4_6683_9442_41CA_096ACA196A98.url = skin/Image_4FCD59A4_6683_9442_41CA_096ACA196A98_en.png
+
+### Multiline Text
+HTMLText_7F7BCD08_6687_AC42_41D1_324E11CB5667.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.442060085836909vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#006600;font-size:9.44vh;font-family:'A0 Tesfa Unicode';"><B><U>Jurage</U></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>Tour Like You Are There</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.861230329041488vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:2.86vh;font-family:'Montserrat';"><B>Explore, Engage, Experience</B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_4288BF94_6781_AC42_41D2_B6AAFEB72162.toolTip = Fullscreen
+Button_7F7BDD08_6687_AC42_4183_95B74D0825A8.toolTip = Get Started
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 4
