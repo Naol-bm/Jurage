@@ -3,7 +3,7 @@
 ## Action
 
 ### URL
-PopupWebFrameBehaviour_479A560A_678E_9C47_41B3_2745D0837236.url = https://www.linkedin.com/pulse/meskel-among-guraghe-people-abdurezak-mohammed/
+PopupWebFrameBehaviour_479A560A_678E_9C47_41B3_2745D0837236.url = https://jmp.sh/s/vLcnjrUXuFIXwjRqtzjG
 
 ## E-Learning
 
